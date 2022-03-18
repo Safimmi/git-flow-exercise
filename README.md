@@ -1,6 +1,13 @@
-# Git Flow Exercise
+# ENDAVA CHALLENGES 
+
+## 1. Git Flow
+#### *Week 1* 
 
 An exercise for learning the [git-flow branching model](http://nvie.com/posts/a-successful-git-branching-model/). This exercise will walk your team through a full release cycle for an example application.
+
+> - [<font color="violet">Excersice repository</font>](https://github.com/Safimmi/git-flow-exercise) :memo:
+> - [Guide](https://github.com/Safimmi/git-flow-exercise/blob/master/walkthrough/1-setup.md)
+> - [Document](https://github.com/Safimmi/git-flow-exercise/Documents/Git Challenge.pdf)
 
 ## Background
 
