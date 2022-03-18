@@ -5,9 +5,9 @@
 
 An exercise for learning the [git-flow branching model](http://nvie.com/posts/a-successful-git-branching-model/). This exercise will walk your team through a full release cycle for an example application.
 
-> - [<font color="violet">Excersice repository</font>](https://github.com/Safimmi/git-flow-exercise) :memo:
+> - [<font color="violet">Excersice repository</font>](https://github.com/Safimmi/git-flow-exercise) :bookmark_tabs:
+> - [Problem description](https://github.com/Safimmi/git-flow-exercise/blob/master/Documents/Git%20Challenge.pdf) :orange_book:
 > - [Guide](https://github.com/Safimmi/git-flow-exercise/blob/master/walkthrough/1-setup.md)
-> - [Document](https://github.com/Safimmi/git-flow-exercise/Documents/Git%20Challenge.pdf)
 
 ## Background
 
