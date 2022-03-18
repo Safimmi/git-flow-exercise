@@ -7,7 +7,7 @@ An exercise for learning the [git-flow branching model](http://nvie.com/posts/a-
 
 > - [<font color="violet">Excersice repository</font>](https://github.com/Safimmi/git-flow-exercise) :memo:
 > - [Guide](https://github.com/Safimmi/git-flow-exercise/blob/master/walkthrough/1-setup.md)
-> - [Document](https://github.com/Safimmi/git-flow-exercise/Documents/Git Challenge.pdf)
+> - [Document](https://github.com/Safimmi/git-flow-exercise/Documents/Git%20Challenge.pdf)
 
 ## Background
 
